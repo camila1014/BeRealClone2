@@ -30,6 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+-Add new photos to photo album
+-Login/Logout
+-Upload new photos as posts
+-Upload posts
+-Blurred images if user has not posted a post
+-Unblurred imaages once the user has posted
+
 ![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/222283402-83d93858-9705-46de-bc38-d07cc61199dd.gif)
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/103790405/222284036-25d3a757-9e3b-4d5e-ba66-89a15bf427b2.gif)
