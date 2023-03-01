@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 - [ ] User can launch camera to take photo instead of photo library
 - [ ] User session persists when application is closed and relaunched
-- [ ] Users are able to log out and return to sign in page
+- [X] Users are able to log out and return to sign in page
 - [ ] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
