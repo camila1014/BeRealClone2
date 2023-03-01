@@ -12,10 +12,10 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can launch camera to take photo instead of photo library
-- [ ] User session persists when application is closed and relaunched
+- [X] User can launch camera to take photo instead of photo library
+- [X] User session persists when application is closed and relaunched
 - [X] Users are able to log out and return to sign in page
-- [ ] Users are NOT able to see other photos until they upload their own	
+- [X] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
@@ -36,15 +36,15 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/103790405/222284828-7084215d-aea9-4a7f-aeca-765a136d3cf2.gif)
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/103790405/222285839-bebaae25-b849-45d9-8f37-85130329c1a2.gif)
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/222285896-66320bbd-4eb4-4610-ac64-0342462e8ac2.gif)
+
+![ezgif com-optimize-2](https://user-images.githubusercontent.com/103790405/222285937-f08400db-0ac4-42cf-b892-5d3b5a2e1e0a.gif)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with https://ezgif.com
 
 ## Notes
 
