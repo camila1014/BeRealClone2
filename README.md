@@ -36,6 +36,7 @@ Here's a walkthrough of implemented user stories:
 -Upload posts
 -Blurred images if user has not posted a post
 -Unblurred imaages once the user has posted
+-10 posts
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/222283402-83d93858-9705-46de-bc38-d07cc61199dd.gif)
 
@@ -49,7 +50,8 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-optimize-2](https://user-images.githubusercontent.com/103790405/222285937-f08400db-0ac4-42cf-b892-5d3b5a2e1e0a.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/222287561-e1be16de-7953-4848-9cc0-378e12340ac0.gif)
+
 
 GIF created with https://ezgif.com
 
