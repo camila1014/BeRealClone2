@@ -6,7 +6,7 @@ Submitted by: **Camila Aichele**
 
 **BeRealClone** is an app that lets you post and caption images on social media. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
