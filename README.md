@@ -12,7 +12,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] User can launch camera to take photo instead of photo library
+- [X] User can launch camera to take photo instead of photo library (photo library is used instead because step 3A could not be completed so step 3B was)
 - [X] User session persists when application is closed and relaunched
 - [X] Users are able to log out and return to sign in page
 - [X] Users are NOT able to see other photos until they upload their own	
