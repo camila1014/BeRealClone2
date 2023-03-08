@@ -38,6 +38,8 @@ Here's a walkthrough of implemented user stories:
 -Unblurred imaages once the user has posted
 -10 posts
 
+![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/223868758-d18f2595-1cc2-4ec2-a96d-16fb501682f0.gif)
+
 ![ezgif com-optimize](https://user-images.githubusercontent.com/103790405/222283402-83d93858-9705-46de-bc38-d07cc61199dd.gif)
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/103790405/222284036-25d3a757-9e3b-4d5e-ba66-89a15bf427b2.gif)
